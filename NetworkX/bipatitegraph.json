@@ -1,0 +1,180 @@
+{
+  "actor_to_movies": {
+    "Abigail Breslin, Greg Kinnear, Paul Dano, Alan Arkin": [
+      "tt0449059"
+    ], 
+    "Leonardo DiCaprio, Djimon Hounsou, Jennifer Connelly, Kagiso Kuypers": [
+      "tt0450259"
+    ], 
+    "Will Smith, Jaden Smith, Thandie Newton, Brian Howe": [
+      "tt0454921"
+    ], 
+    "Clive Owen, Juan Gabriel Yacuzzi, Michael Caine, Mishal Husain": [
+      "tt0206634"
+    ], 
+    "Brandon Routh, Kate Bosworth, Kevin Spacey, James Marsden": [
+      "tt0348150"
+    ], 
+    "Radha Mitchell, Sean Bean, Laurie Holden, Deborah Kara Unger": [
+      "tt0384537"
+    ], 
+    "Denzel Washington, Paula Patton, Val Kilmer, Jim Caviezel": [
+      "tt0453467"
+    ], 
+    "Gerard Butler, Lena Headey, Dominic West, David Wenham": [
+      "tt0416449"
+    ], 
+    "Amanda Bynes, Channing Tatum, Laura Ramsey, Vinnie Jones": [
+      "tt0454945"
+    ], 
+    "Aaron Stanford, Kathleen Quinlan, Vinessa Shaw, Emilie de Ravin": [
+      "tt0454841"
+    ], 
+    "Ivana Baquero, Sergi L\u00f3pez, Maribel Verd\u00fa, Doug Jones": [
+      "tt0457430"
+    ], 
+    "Rudy Youngblood, Dalia Hern\u00e1ndez, Jonathan Brewer, Morris Birdyellowhead": [
+      "tt0472043"
+    ], 
+    "Owen Wilson, Paul Newman, Bonnie Hunt, Larry the Cable Guy": [
+      "tt0317219"
+    ], 
+    "Cameron Diaz, Kate Winslet, Jude Law, Jack Black": [
+      "tt0457939"
+    ], 
+    "Hugh Jackman, Halle Berry, Ian McKellen, Patrick Stewart": [
+      "tt0376994"
+    ], 
+    "Martina Gedeck, Ulrich M\u00fche, Sebastian Koch, Ulrich Tukur": [
+      "tt0405094"
+    ], 
+    "Bruce Willis, Matthew Barry, Emile Hirsch, Fernando Vargas": [
+      "tt0426883"
+    ], 
+    "Hugh Jackman, Christian Bale, Michael Caine, Piper Perabo": [
+      "tt0482571"
+    ], 
+    "Jack Black, Kyle Gass, JR Reed, Ronnie James Dio": [
+      "tt0365830"
+    ], 
+    "Kirsten Dunst, Jason Schwartzman, Judy Davis, Rip Torn": [
+      "tt0422720"
+    ], 
+    "Edward Norton, Paul Giamatti, Jessica Biel, Rufus Sewell": [
+      "tt0443543"
+    ], 
+    "Tom Hanks, Audrey Tautou, Ian McKellen, Jean Reno": [
+      "tt0382625"
+    ], 
+    "Daniel Craig, Eva Green, Mads Mikkelsen, Judi Dench": [
+      "tt0381061"
+    ], 
+    "Meryl Streep, Anne Hathaway, Emily Blunt, Stanley Tucci": [
+      "tt0458352"
+    ], 
+    "Luke Wilson, Maya Rudolph, Dax Shepard, Terry Crews": [
+      "tt0387808"
+    ], 
+    "Mary Elizabeth Winstead, Ryan Merriman, Kris Lemche, Alexz Johnson": [
+      "tt0414982"
+    ], 
+    "Ryan Newman, Steve Buscemi, Mitchel Musso, Catherine O'Hara": [
+      "tt0385880"
+    ], 
+    "Lucas Black, Damien Marzette, Trula M. Marcus, Zachery Ty Bryan": [
+      "tt0463985"
+    ], 
+    "Johnny Depp, Orlando Bloom, Keira Knightley, Jack Davenport": [
+      "tt0383574"
+    ]
+  }, 
+  "movie_to_actors": {
+    "tt0454841": [
+      "Aaron Stanford, Kathleen Quinlan, Vinessa Shaw, Emilie de Ravin"
+    ], 
+    "tt0449059": [
+      "Abigail Breslin, Greg Kinnear, Paul Dano, Alan Arkin"
+    ], 
+    "tt0472043": [
+      "Rudy Youngblood, Dalia Hern\u00e1ndez, Jonathan Brewer, Morris Birdyellowhead"
+    ], 
+    "tt0463985": [
+      "Lucas Black, Damien Marzette, Trula M. Marcus, Zachery Ty Bryan"
+    ], 
+    "tt0457939": [
+      "Cameron Diaz, Kate Winslet, Jude Law, Jack Black"
+    ], 
+    "tt0381061": [
+      "Daniel Craig, Eva Green, Mads Mikkelsen, Judi Dench"
+    ], 
+    "tt0385880": [
+      "Ryan Newman, Steve Buscemi, Mitchel Musso, Catherine O'Hara"
+    ], 
+    "tt0317219": [
+      "Owen Wilson, Paul Newman, Bonnie Hunt, Larry the Cable Guy"
+    ], 
+    "tt0387808": [
+      "Luke Wilson, Maya Rudolph, Dax Shepard, Terry Crews"
+    ], 
+    "tt0365830": [
+      "Jack Black, Kyle Gass, JR Reed, Ronnie James Dio"
+    ], 
+    "tt0376994": [
+      "Hugh Jackman, Halle Berry, Ian McKellen, Patrick Stewart"
+    ], 
+    "tt0206634": [
+      "Clive Owen, Juan Gabriel Yacuzzi, Michael Caine, Mishal Husain"
+    ], 
+    "tt0457430": [
+      "Ivana Baquero, Sergi L\u00f3pez, Maribel Verd\u00fa, Doug Jones"
+    ], 
+    "tt0422720": [
+      "Kirsten Dunst, Jason Schwartzman, Judy Davis, Rip Torn"
+    ], 
+    "tt0414982": [
+      "Mary Elizabeth Winstead, Ryan Merriman, Kris Lemche, Alexz Johnson"
+    ], 
+    "tt0458352": [
+      "Meryl Streep, Anne Hathaway, Emily Blunt, Stanley Tucci"
+    ], 
+    "tt0454945": [
+      "Amanda Bynes, Channing Tatum, Laura Ramsey, Vinnie Jones"
+    ], 
+    "tt0443543": [
+      "Edward Norton, Paul Giamatti, Jessica Biel, Rufus Sewell"
+    ], 
+    "tt0450259": [
+      "Leonardo DiCaprio, Djimon Hounsou, Jennifer Connelly, Kagiso Kuypers"
+    ], 
+    "tt0384537": [
+      "Radha Mitchell, Sean Bean, Laurie Holden, Deborah Kara Unger"
+    ], 
+    "tt0453467": [
+      "Denzel Washington, Paula Patton, Val Kilmer, Jim Caviezel"
+    ], 
+    "tt0426883": [
+      "Bruce Willis, Matthew Barry, Emile Hirsch, Fernando Vargas"
+    ], 
+    "tt0348150": [
+      "Brandon Routh, Kate Bosworth, Kevin Spacey, James Marsden"
+    ], 
+    "tt0382625": [
+      "Tom Hanks, Audrey Tautou, Ian McKellen, Jean Reno"
+    ], 
+    "tt0405094": [
+      "Martina Gedeck, Ulrich M\u00fche, Sebastian Koch, Ulrich Tukur"
+    ], 
+    "tt0454921": [
+      "Will Smith, Jaden Smith, Thandie Newton, Brian Howe"
+    ], 
+    "tt0416449": [
+      "Gerard Butler, Lena Headey, Dominic West, David Wenham"
+    ], 
+    "tt0383574": [
+      "Johnny Depp, Orlando Bloom, Keira Knightley, Jack Davenport"
+    ], 
+    "tt0482571": [
+      "Hugh Jackman, Christian Bale, Michael Caine, Piper Perabo"
+    ]
+  }
+}
